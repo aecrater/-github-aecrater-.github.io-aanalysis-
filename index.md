@@ -6,9 +6,9 @@ layout: default
 # Analysis of Office Hours Attended and Rating of Class Difficulty
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/image1.png", alt="dislot" width="500"/>
-<img src="static/imgs/image2.png", alt="scatterplot" width="500"/>
-<img src="static/imgs/image3.png", alt="lineplot" width="500"/>
+<img src="static/imgs/image1.png" alt="dislot" width="500"/>
+<img src="static/imgs/image2.png" alt="scatterplot" width="500"/>
+<img src="static/imgs/image3.png" alt="lineplot" width="500"/>
 
 
 ## Conclusion
